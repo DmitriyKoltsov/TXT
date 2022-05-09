@@ -1,0 +1,5 @@
+favorite_movie - 5th_element
+favorite_series - The_Big_Bang_Theory
+favorite_food - meat
+favorite_season - summer
+side_you_would_like_to_visit - Czech_Republic

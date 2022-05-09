@@ -1,0 +1,6 @@
+terminal - git_bash
+basic_theory - what_is_testing
+http - server_request_methods
+json - structure
+postman - api_testing
+dev_tools - how_does_it_work 
