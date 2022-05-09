@@ -1,0 +1,5 @@
+name - Dmitriy,
+surname - Koltsov,
+age - 37,
+pets - 0,
+income - 100500 
